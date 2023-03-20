@@ -1,0 +1,33 @@
+post_id,subreddit,created_utc,selftext,post_url,post_title,link_flair_text,score,num_comments,upvote_ratio
+gh1dj9,MachineLearning,1589116794.0,,https://v.redd.it/v492uoheuxx41,[Project] From books to presentations in 10s with AR + ML,Project,7794,186,0.99
+kuc6tz,MachineLearning,1610274636.0,,https://v.redd.it/25nxi9ojfha61,[D] A Demo from 1993 of 32-year-old Yann LeCun showing off the World's first Convolutional Network for Text Recognition,Discussion,5845,133,0.98
+g7nfvb,MachineLearning,1587788843.0,,https://v.redd.it/rlmmjm1q5wu41,[R] First Order Motion Model applied to animate paintings,Research,4754,111,0.97
+lui92h,MachineLearning,1614525148.0,,https://v.redd.it/ikd5gjlbi8k61,[N] AI can turn old photos into moving Images / Link is given in the comments - You can also turn your old photo like this,News,4685,230,0.97
+ohxnts,MachineLearning,1625977139.0,,https://i.redd.it/34sgziebfia71.jpg,[D] This AI reveals how much time politicians stare at their phone at work,Discussion,4567,228,0.96
+n2f0ld,MachineLearning,1619861540.0,,https://i.redd.it/6z2s8h1iahw61.jpg,[D] Types of Machine Learning Papers,Discussion,4371,219,0.98
+k8nyf8,datascience,1607370595.0,,https://dslntlv9vhjr4.cloudfront.net/posts_images/EcY6g2neQEaIi.png,data siens,Fun/Trivia,3950,75,0.97
+vkxsf2,MachineLearning,1656222743.0,,https://v.redd.it/dihfgy0umw791,I made a robot that punishes me if it detects that if I am procrastinating on my assignments [P],Project,3875,161,0.95
+oeg6nl,datascience,1625518640.0,,https://i.redd.it/yqnunwryjg971.jpg,The pain and excitement,Fun/Trivia,3800,177,0.97
+hiv3vf,MachineLearning,1593547579.0,"It is omnipresent!
+
+**First** of all, the peer-review process is *broken*. Every fourth NeurIPS submission is put on arXiv. There are DeepMind researchers publicly going after reviewers who are criticizing their ICLR submission. On top of that, papers by well-known institutes that were put on arXiv are accepted at top conferences, despite the reviewers agreeing on rejection. In contrast, vice versa, some papers with a majority of accepts are overruled by the AC. (I don't want to call any names, just have a look the openreview page of this year's ICRL).
+
+**Secondly,** there is a *reproducibility crisis*. Tuning hyperparameters on the test set seem to be the standard practice nowadays. Papers that do not beat the current state-of-the-art method have a zero chance of getting accepted at a good conference. As a result, hyperparameters get tuned and subtle tricks implemented to observe a gain in performance where there isn't any.
+
+**Thirdly,** there is a *worshiping* problem. Every paper with a Stanford or DeepMind affiliation gets praised like a breakthrough. For instance, BERT has seven times more citations than ULMfit. The Google affiliation gives so much credibility and visibility to a paper. At every ICML conference, there is a crowd of people in front of every DeepMind poster, regardless of the content of the work. The same story happened with the Zoom meetings at the virtual ICLR 2020. Moreover, NeurIPS 2020 had twice as many submissions as ICML, even though both are top-tier ML conferences. Why? Why is the name ""neural"" praised so much? Next, Bengio, Hinton, and LeCun are truly deep learning pioneers but calling them the ""godfathers"" of AI is insane. It has reached the level of a cult.
+
+**Fourthly**, the way Yann LeCun talked about biases and fairness topics was insensitive. However, the *toxicity* and backlash that he received are beyond any reasonable quantity. Getting rid of LeCun and silencing people won't solve any issue.
+
+**Fifthly**, machine learning, and computer science in general, have a huge *diversity problem*. At our CS faculty, only 30% of undergrads and 15% of the professors are women. Going on parental leave during a PhD or post-doc usually means the end of an academic career. However, this lack of diversity is often abused as an excuse to shield certain people from any form of criticism.  Reducing every negative comment in a scientific discussion to race and gender creates a toxic environment. People are becoming afraid to engage in fear of being called a racist or sexist, which in turn reinforces the diversity problem.
+
+**Sixthly**, moral and ethics are set *arbitrarily*. The U.S. domestic politics dominate every discussion. At this very moment, thousands of Uyghurs are put into concentration camps based on computer vision algorithms invented by this community, and nobody seems even remotely to care. Adding a ""broader impact"" section at the end of every people will not make this stop. There are huge shitstorms because a researcher wasn't mentioned in an article. Meanwhile, the 1-billion+ people continent of Africa is virtually excluded from any meaningful ML discussion (besides a few Indaba workshops).
+
+**Seventhly**, there is a cut-throat publish-or-perish *mentality*. If you don't publish 5+ NeurIPS/ICML papers per year, you are a looser. Research groups have become so large that the PI does not even know the name of every PhD student anymore. Certain people submit 50+ papers per year to NeurIPS. The sole purpose of writing a paper has become to having one more NeurIPS paper in your CV. Quality is secondary; passing the peer-preview stage has become the primary objective.
+
+**Finally**, discussions have become *disrespectful*. Schmidhuber calls Hinton a thief, Gebru calls LeCun a white supremacist, Anandkumar calls Marcus a sexist, everybody is under attack, but nothing is improved.
+
+Albert Einstein was opposing the theory of [quantum mechanics](https://en.wikipedia.org/wiki/Albert_Einstein#Einstein's_objections_to_quantum_mechanics). Can we please stop demonizing those who do not share our exact views. We are allowed to disagree without going for the jugular. 
+
+The moment we start silencing people because of their opinion is the moment scientific and societal progress dies. 
+
+Best intentions, Yusuf",https://www.reddit.com/r/MachineLearning/comments/hiv3vf/d_the_machine_learning_community_has_a_toxicity/,[D] The machine learning community has a toxicity problem,Discussion,3778,569,0.95
